@@ -6,7 +6,7 @@
 </head>
 <body>
   <div class="kartu-profil">
-<img src= "doc.887" alt="foto profil saya">
+<img src= "doc.887" alt="foto profil">
   <h1> tabungan milenial</h1>
   <p> masyarakat melek teknologi. yok lihat berapa banyak tabunganmu!</p>
   <a href="https://www.instagram.com/dittzya87"> kunjungi instagram saya </a>
